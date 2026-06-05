@@ -11,14 +11,13 @@ In this group project, you will build a small machine learning pipeline and crit
 
 The AI assistant may help you think, compare, or debug, but it must **not replace your own modelling decisions**.
 
-
-| Item | Requirement |
-|---|---|
-| Group size | 2–4 students |
-| Output | 5-minute presentation |
-| Main deliverable | Small ML pipeline + critical AI assistant use |
-| Required model | At least one baseline ML model |
-| Required analysis | Evaluation + 3 model mistakes |
+| Item              | Requirement                                   |
+| ----------------- | --------------------------------------------- |
+| Group size        | 2–4 students                                  |
+| Output            | 5-minute presentation                         |
+| Main deliverable  | Small ML pipeline + critical AI assistant use |
+| Required model    | At least one baseline ML model                |
+| Required analysis | Evaluation + 3 model mistakes                 |
 
 ---
 
@@ -56,16 +55,16 @@ You may choose your own dataset, but the following options are beginner-friendly
 
 Some Kaggle datasets may require a free [Kaggle](https://www.kaggle.com/) account.
 
-| Theme | Dataset | Link | Possible task | Good for |
-|---|---|---|---|---|
-| Education | UCI Student Performance | [Open dataset](https://archive.ics.uci.edu/dataset/320/student%2Bperformance) | Predict final grade; classify pass/fail; analyze important factors | Regression, classification, feature engineering |
-| Urban mobility | UCI Bike Sharing | [Open dataset](https://archive.ics.uci.edu/ml/datasets/bike%2Bsharing%2Bdataset) | Predict number of bike rentals from weather, season, and time | Regression, error analysis, time features |
-| Music | Spotify Tracks Attributes and Popularity | [Open dataset](https://www.kaggle.com/datasets/melissamonfared/spotify-tracks-attributes-and-popularity) | Predict popularity; cluster songs by audio features | Regression, classification, clustering |
-| Health | UCI Heart Disease | [Open dataset](https://archive.ics.uci.edu/dataset/45/heart%2Bdisease) | Predict heart disease presence from clinical features | Binary classification, interpretability |
-| Text / NLP | UCI SMS Spam Collection | [Open dataset](https://archive.ics.uci.edu/dataset/228/sms%2Bspam%2Bcollection) | Classify SMS messages as spam or ham | Text classification, prompt vs ML comparison |
-| Movies | IMDb 50K Movie Reviews | [Open dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | Classify reviews as positive or negative | NLP, sentiment analysis, LLM comparison |
-| Biology / animals | Palmer Penguins | [Open dataset](https://github.com/allisonhorst/palmerpenguins) | Predict penguin species; cluster penguins by measurements | Classification, visualization, clustering |
-| Food / chemistry | UCI Wine Quality | [Open dataset](https://archive.ics.uci.edu/ml/datasets/wine%2Bquality) | Predict wine quality from chemical properties | Regression, classification, feature scaling |
+| Theme             | Dataset                                  | Link                                                                                                     | Possible task                                                      | Good for                                        |
+| ----------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------- |
+| Education         | UCI Student Performance                  | [Open dataset](https://archive.ics.uci.edu/dataset/320/student%2Bperformance)                            | Predict final grade; classify pass/fail; analyze important factors | Regression, classification, feature engineering |
+| Urban mobility    | UCI Bike Sharing                         | [Open dataset](https://archive.ics.uci.edu/ml/datasets/bike%2Bsharing%2Bdataset)                         | Predict number of bike rentals from weather, season, and time      | Regression, error analysis, time features       |
+| Music             | Spotify Tracks Attributes and Popularity | [Open dataset](https://www.kaggle.com/datasets/melissamonfared/spotify-tracks-attributes-and-popularity) | Predict popularity; cluster songs by audio features                | Regression, classification, clustering          |
+| Health            | UCI Heart Disease                        | [Open dataset](https://archive.ics.uci.edu/dataset/45/heart%2Bdisease)                                   | Predict heart disease presence from clinical features              | Binary classification, interpretability         |
+| Text / NLP        | UCI SMS Spam Collection                  | [Open dataset](https://archive.ics.uci.edu/dataset/228/sms%2Bspam%2Bcollection)                          | Classify SMS messages as spam or ham                               | Text classification, prompt vs ML comparison    |
+| Movies            | IMDb 50K Movie Reviews                   | [Open dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)        | Classify reviews as positive or negative                           | NLP, sentiment analysis, LLM comparison         |
+| Biology / animals | Palmer Penguins                          | [Open dataset](https://github.com/allisonhorst/palmerpenguins)                                           | Predict penguin species; cluster penguins by measurements          | Classification, visualization, clustering       |
+| Food / chemistry  | UCI Wine Quality                         | [Open dataset](https://archive.ics.uci.edu/ml/datasets/wine%2Bquality)                                   | Predict wine quality from chemical properties                      | Regression, classification, feature scaling     |
 
 ---
 
@@ -123,6 +122,7 @@ Your project must include:
 
 4. **Error analysis**  
    Choose **three interesting mistakes** and explain:
+   
    - input example
    - true label/value
    - model prediction
@@ -141,30 +141,29 @@ Each group should submit:
 - Short README explaining how to run the project
 - Short note describing how the AI assistant was used (if it was)
 
-
 ## Do / Don't
 
-| Do | Don't |
-|---|---|
-| Use a simple baseline first | Start with a complex model immediately |
-| Keep the same train/test split for comparisons | Compare models unfairly |
-| Explain errors with concrete examples | Only report accuracy |
-| Use the LLM in a controlled way | Let the LLM decide everything |
-| Be honest if the LLM did not help | Pretend every AI suggestion improved results |
+| Do                                             | Don't                                        |
+| ---------------------------------------------- | -------------------------------------------- |
+| Use a simple baseline first                    | Start with a complex model immediately       |
+| Keep the same train/test split for comparisons | Compare models unfairly                      |
+| Explain errors with concrete examples          | Only report accuracy                         |
+| Use the LLM in a controlled way                | Let the LLM decide everything                |
+| Be honest if the LLM did not help              | Pretend every AI suggestion improved results |
 
 ---
 
 ## Final Presentation Format
 
-Each group gives a **5-minute presentation**.
+Each group gives a **5-minute presentation**. Rule of thumb: 1 slide, 1 minute
 
-| Slide | Content |
-|---|---|
-| 1 | Problem and dataset |
-| 2 | ML approach and baseline |
-| 3 | Best result and metric |
-| 4 | Most interesting error |
-| 5 | Did the AI assistant help or mislead you? |
+| Slide | Content                                   |
+| ----- | ----------------------------------------- |
+| 1     | Problem and dataset                       |
+| 2     | ML approach and baseline                  |
+| 3     | Best result and metric                    |
+| 4     | Most interesting error                    |
+| 5     | Did the AI assistant help or mislead you? |
 
 ---
 
@@ -211,10 +210,12 @@ Best tech smart
 
 1. A strong project is **not** the one with the highest accuracy. A strong project is one where you:
 - understand the data
-- make reasonable choices
-- test them fairly
-- explain what the model still does not understand
 
+- make reasonable choices
+
+- test them fairly
+
+- explain what the model still does not understand
 2. Start simple. A clear baseline, fair comparison, and thoughtful error analysis are more important than using the most advanced model.
 
 > Good ML is not only about improving scores. It is about understanding what the model learns, what it misses, and why.
@@ -226,6 +227,7 @@ Best tech smart
 You may use the free-tier [Google Gemini API](https://ai.google.dev/) as the LLM component for this project.
 
 The Gemini API is beginner-friendly, free for small projects, and works well for:
+
 - text classification
 - prompt experiments
 - feature suggestions
@@ -235,12 +237,13 @@ The Gemini API is beginner-friendly, free for small projects, and works well for
 ### Step 1 — Create an API Key
 
 1. Go to:
-
+   
    [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 2. Sign in with a Google account.
 
 3. Click:
+   
    - **Get API key**
    - **Create API key**
 
@@ -278,6 +281,7 @@ print(response.text)
 The purpose of this project is **not** to let the AI assistant do the work for you.
 
 The goal is to critically evaluate whether the AI assistant:
+
 - improved your modelling process,
 - gave useful suggestions,
 - introduced mistakes or misleading ideas,
@@ -285,26 +289,28 @@ The goal is to critically evaluate whether the AI assistant:
 
 ### Recommended Practices
 
-| Good Practice | Why It Matters |
-|---|---|
-| Start with a simple baseline model | You need a fair comparison |
-| Use the same train/test split | Avoid unfair evaluation |
-| Test only one AI-assisted change at a time | Makes conclusions clearer |
-| Verify AI-generated suggestions manually | LLMs can hallucinate or oversimplify |
-| Report failures honestly | Negative results are scientifically useful |
-| Keep prompts simple and reproducible | Makes experiments fair and repeatable |
+| Good Practice                              | Why It Matters                             |
+| ------------------------------------------ | ------------------------------------------ |
+| Start with a simple baseline model         | You need a fair comparison                 |
+| Use the same train/test split              | Avoid unfair evaluation                    |
+| Test only one AI-assisted change at a time | Makes conclusions clearer                  |
+| Verify AI-generated suggestions manually   | LLMs can hallucinate or oversimplify       |
+| Report failures honestly                   | Negative results are scientifically useful |
+| Keep prompts simple and reproducible       | Makes experiments fair and repeatable      |
 
 ---
 
 ## Important Restrictions
 
 You must **not**:
+
 - paste full assignment solutions into an LLM,
 - ask the LLM to generate the entire project,
 - fabricate evaluation results,
 - or present AI-generated code or explanations without understanding them.
 
 You are expected to:
+
 - understand your dataset,
 - explain your modelling choices,
 - and critically reflect on the usefulness and limitations of the AI assistant.
@@ -313,16 +319,17 @@ You are expected to:
 
 ## Suggested Gemini Models
 
-| Model | Recommended Use |
-|---|---|
-| `gemini-2.5-flash` | Fast, free-tier friendly, ideal for most projects |
-| `gemini-2.5-pro` | Stronger reasoning, optional for advanced experiments |
+| Model              | Recommended Use                                       |
+| ------------------ | ----------------------------------------------------- |
+| `gemini-2.5-flash` | Fast, free-tier friendly, ideal for most projects     |
+| `gemini-2.5-pro`   | Stronger reasoning, optional for advanced experiments |
 
 ---
 
 ## Optional Alternatives
 
 You may also use:
+
 - [Hugging Face Inference API](https://huggingface.co/inference-api)
 - [Groq Cloud](https://console.groq.com/)
 - [OpenAI API](https://platform.openai.com/)
