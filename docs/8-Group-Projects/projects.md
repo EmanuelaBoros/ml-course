@@ -166,6 +166,9 @@ The exercise submissions are still being verified. If your number of submitted e
 | 2410780 | Nguyễn Hải Phú | Group 4 | To verify |  | +0.25 | 17.50 | 17.75 |  |
 | 2410299 | Nguyễn Xuân Hiển | Group 4 | To verify |  | +0.15 | 17.50 | 17.65 |  |
 
+
+
+
 ---
 
 ## Final Grade
