@@ -4,7 +4,7 @@
 
 # Group Project: _Can AI Help You Build a Better Machine Learning Model?_
 
-**Course:** ICT 3.3 Machine Learning and Data Mining  
+**Course:** Machine Learning and Data Mining  
 **Date:** May 2026  
 
 In this group project, you will build a small machine learning pipeline and critically test whether an AI assistant can improve one part of your work.

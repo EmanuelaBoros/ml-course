@@ -4,7 +4,7 @@
 
 ## Welcome to the Machine Learning course 🚀
 
-**Course:** ICT 3.3 Machine Learning and Data Mining  
+**Course:** Machine Learning and Data Mining  
 **Date:** May 2026  
 
 This course covers the fundamentals of machine learning, from basic models to advanced concepts and applications.
@@ -24,7 +24,7 @@ Clone [the repository](https://github.com/EmanuelaBoros/ml-course) `git clone gi
 | 4 | Regularization | [📄 Slides](./4-Regularization/4-reg.pdf) | [Notebook](./4-Regularization/04.md) | ✅ Available | 
 | 5 | PCA | [📄 Slides](./5-Principal-Component-Analysis/5-dim-reduc.pdf) | [Notebook](./5-Principal-Component-Analysis/05.md) | ✅ Available | 
 | 6 | Neural Networks | [📄 Slides](./6-Neural-Networks/6-nns.pdf) | [Notebook](./6-Neural-Networks/06.md) | ✅ Available | 
-| 7 | Bayes Classification | [📄 Slides](./7-Bayes-Classification/7-bayes.pdf) | [Coming soon](./7-Bayes-Classification/07.md) | ✅ Available | 
+| 7 | Bayes Classification | [📄 Slides](./7-Bayes-Classification/7-bayes.pdf) | [Notebook](./7-Bayes-Classification/07.md) | ✅ Available | 
 
 ---
 
