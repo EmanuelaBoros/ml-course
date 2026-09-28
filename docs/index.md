@@ -16,15 +16,15 @@ Clone [the repository](https://github.com/EmanuelaBoros/ml-course) `git clone gi
 
 ## Course Modules
 
- # | Topic | Slides / Materials | Notebook | Status |
-|--|------|--------------------|----------|----------|
-| 1 | Introduction to ML & Data Mining | [📄 Slides](./1-Introduction-to-Machine-Learning-and-Data-Mining/01-introduction.pdf) | [Notebook](./1-Introduction-to-Machine-Learning-and-Data-Mining/01.md) | ✅ Available | 
-| 2 | Linear Regression | [📄 Slides](./2-Linear-Regression/02-lin-reg.pdf) | [Notebook](./2-Linear-Regression/02.md) | ✅ Available | 
-| 3 | Logistic Regression | [📄 Slides](./3-Logistic-Regression/3-log-reg.pdf) | [Notebook](./3-Logistic-Regression/03.md) | ✅ Available | 
-| 4 | Regularization | [📄 Slides](./4-Regularization/4-reg.pdf) | [Notebook](./4-Regularization/04.md) | ✅ Available | 
-| 5 | PCA | [📄 Slides](./5-Principal-Component-Analysis/5-dim-reduc.pdf) | [Notebook](./5-Principal-Component-Analysis/05.md) | ✅ Available | 
-| 6 | Neural Networks | [📄 Slides](./6-Neural-Networks/6-nns.pdf) | [Notebook](./6-Neural-Networks/06.md) | ✅ Available | 
-| 7 | Bayes Classification | [📄 Slides](./7-Bayes-Classification/7-bayes.pdf) | [Notebook](./7-Bayes-Classification/07.md) | ✅ Available | 
+| # | Topic | Slides / Materials | Notebook | Status |
+|---|-------|--------------------|----------|--------|
+| 1 | Introduction to ML & Data Mining | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 2 | Linear Regression | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 3 | Logistic Regression | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 4 | Regularization | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 5 | PCA | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 6 | Neural Networks | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
+| 7 | Bayes Classification | [📄 Slides](./coming-soon.md) | [Notebook](./coming-soon.md) | Coming soon |
 
 ---
 
