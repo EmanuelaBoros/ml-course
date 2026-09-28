@@ -4,7 +4,7 @@
 
 ## Welcome to the Machine Learning course 🚀
 
-**Course:** ICT 3.3 Machine Learning and Data Mining  
+**Course:** Machine Learning and Data Mining  
 **Date:** May 2026  
 
 This course covers the fundamentals of machine learning, from basic models to advanced concepts and applications.
