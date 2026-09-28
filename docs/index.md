@@ -9,7 +9,7 @@
 
 This course covers the fundamentals of machine learning, from basic models to advanced concepts and applications.
 
-Clone [the repository](https://github.com/USTH-classroom/ml-course) `git clone git@github.com:USTH-classroom/ml-course.git`. Slides and exercises will be added before each session.
+Clone [the repository](https://github.com/EmanuelaBoros/ml-course) `git clone git@github.com:EmanuelaBoros/ml-course.git`. Slides and exercises will be added before each session.
 
 ---
 
