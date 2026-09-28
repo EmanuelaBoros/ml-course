@@ -1,0 +1,5 @@
+title: ml-course
+description: ML course
+url: "https://emanuelaboros.github.io"
+baseurl: "/ml-course"
+theme: jekyll-theme-primer
