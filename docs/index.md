@@ -16,7 +16,7 @@ Clone [the repository](https://github.com/EmanuelaBoros/ml-course) `git clone gi
 
 ## Course Modules
 
-| # | Topic | Slides / Materials | Notebook | Status |
+ # | Topic | Slides / Materials | Notebook | Status |
 |--|------|--------------------|----------|----------|
 | 1 | Introduction to ML & Data Mining | [📄 Slides](./1-Introduction-to-Machine-Learning-and-Data-Mining/01-introduction.pdf) | [Notebook](./1-Introduction-to-Machine-Learning-and-Data-Mining/01.md) | ✅ Available | 
 | 2 | Linear Regression | [📄 Slides](./2-Linear-Regression/02-lin-reg.pdf) | [Notebook](./2-Linear-Regression/02.md) | ✅ Available | 
